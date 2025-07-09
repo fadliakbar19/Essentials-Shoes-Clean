@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "customerName": "Budi Santoso",
+    "shoeType": "Sneakers",
+    "serviceType": "Deep Clean",
+    "status": "Completed",
+    "orderDate": "2025-07-01",
+    "pickupDate": "2025-07-06",
+    "notes": "Noda lumpur di bagian samping."
+  },
+  {
+    "id": "3",
+    "customerName": "Joko Widodo",
+    "shoeType": "Heels",
+    "serviceType": "Repaint",
+    "status": "Pending",
+    "orderDate": "2025-07-03",
+    "pickupDate": "2025-07-10",
+    "notes": "Warna asli hitam, ingin diubah ke merah."
+  },
+  {
+    "id": "6",
+    "customerName": "Rina Dewi",
+    "shoeType": "Casual",
+    "serviceType": "Deep Clean",
+    "status": "New",
+    "orderDate": "2025-07-08",
+    "notes": "Sepatu putih kotor."
+  }
+]
